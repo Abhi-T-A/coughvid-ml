@@ -1,0 +1,146 @@
+{
+  "timestamp": "2026-10-13T14:19:15Z",
+  "evaluation_population": "1,595 approved holdout test recordings",
+  "models": [
+    {
+      "model_name": "xgboost",
+      "num_test_samples": 1595,
+      "num_test_positives": 105,
+      "num_test_negatives": 1490,
+      "test_prevalence": 0.0658,
+      "roc_auc": 0.5819,
+      "average_precision": 0.0885,
+      "brier_score": 0.1439,
+      "log_loss": 0.462,
+      "threshold_evaluations": {
+        "default": {
+          "threshold": 0.5,
+          "true_positives": 14,
+          "false_positives": 126,
+          "true_negatives": 1364,
+          "false_negatives": 91,
+          "sensitivity": 0.13333,
+          "specificity": 0.91544,
+          "precision": 0.1,
+          "false_positive_rate": 0.08456,
+          "f1_score": 0.11429,
+          "balanced_accuracy": 0.52438,
+          "youdens_j": 0.04877
+        },
+        "youden_optimal": {
+          "threshold": 0.33,
+          "true_positives": 58,
+          "false_positives": 734,
+          "true_negatives": 756,
+          "false_negatives": 47,
+          "sensitivity": 0.55238,
+          "specificity": 0.50738,
+          "precision": 0.07323,
+          "false_positive_rate": 0.49262,
+          "f1_score": 0.12932,
+          "balanced_accuracy": 0.52988,
+          "youdens_j": 0.05976
+        },
+        "high_sensitivity_80": {
+          "threshold": 0.23,
+          "true_positives": 94,
+          "false_positives": 1149,
+          "true_negatives": 341,
+          "false_negatives": 11,
+          "sensitivity": 0.89524,
+          "specificity": 0.22886,
+          "precision": 0.07562,
+          "false_positive_rate": 0.77114,
+          "f1_score": 0.13947,
+          "balanced_accuracy": 0.56205,
+          "youdens_j": 0.1241
+        }
+      },
+      "roc_auc_ci_95": [
+        0.525,
+        0.6367
+      ],
+      "average_precision_ci_95": [
+        0.067,
+        0.1286
+      ],
+      "brier_score_ci_95": [
+        0.1379,
+        0.1497
+      ],
+      "production_model_path": "artifacts\\models\\production_xgboost.joblib",
+      "schema_version": "1.0.0",
+      "config_fingerprint": "b5f88a68e944942e"
+    },
+    {
+      "model_name": "random_forest",
+      "num_test_samples": 1595,
+      "num_test_positives": 105,
+      "num_test_negatives": 1490,
+      "test_prevalence": 0.0658,
+      "roc_auc": 0.588,
+      "average_precision": 0.1017,
+      "brier_score": 0.1716,
+      "log_loss": 0.532,
+      "threshold_evaluations": {
+        "default": {
+          "threshold": 0.5,
+          "true_positives": 10,
+          "false_positives": 61,
+          "true_negatives": 1429,
+          "false_negatives": 95,
+          "sensitivity": 0.09524,
+          "specificity": 0.95906,
+          "precision": 0.14085,
+          "false_positive_rate": 0.04094,
+          "f1_score": 0.11364,
+          "balanced_accuracy": 0.52715,
+          "youdens_j": 0.0543
+        },
+        "youden_optimal": {
+          "threshold": 0.39,
+          "true_positives": 66,
+          "false_positives": 793,
+          "true_negatives": 697,
+          "false_negatives": 39,
+          "sensitivity": 0.62857,
+          "specificity": 0.46779,
+          "precision": 0.07683,
+          "false_positive_rate": 0.53221,
+          "f1_score": 0.13693,
+          "balanced_accuracy": 0.54818,
+          "youdens_j": 0.09636
+        },
+        "high_sensitivity_80": {
+          "threshold": 0.34,
+          "true_positives": 93,
+          "false_positives": 1184,
+          "true_negatives": 306,
+          "false_negatives": 12,
+          "sensitivity": 0.88571,
+          "specificity": 0.20537,
+          "precision": 0.07283,
+          "false_positive_rate": 0.79463,
+          "f1_score": 0.13459,
+          "balanced_accuracy": 0.54554,
+          "youdens_j": 0.09108
+        }
+      },
+      "roc_auc_ci_95": [
+        0.5286,
+        0.6473
+      ],
+      "average_precision_ci_95": [
+        0.0748,
+        0.1489
+      ],
+      "brier_score_ci_95": [
+        0.1682,
+        0.175
+      ],
+      "production_model_path": "artifacts\\models\\production_random_forest.joblib",
+      "schema_version": "1.0.0",
+      "config_fingerprint": "b5f88a68e944942e"
+    }
+  ]
+}
