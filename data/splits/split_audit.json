@@ -1,0 +1,39 @@
+{
+  "train_size": 9224,
+  "test_size": 1628,
+  "train_class_counts": {
+    "0": 8612,
+    "1": 612
+  },
+  "test_class_counts": {
+    "0": 1520,
+    "1": 108
+  },
+  "train_class_proportions": {
+    "0": 0.9336513443191674,
+    "1": 0.0663486556808326
+  },
+  "test_class_proportions": {
+    "0": 0.9336609336609336,
+    "1": 0.06633906633906633
+  },
+  "uuid_leakage_train_test": 0,
+  "num_folds": 5,
+  "folds_leakage_val_test": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "folds_leakage_train_val": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "shared_demographic_clusters_count": 246,
+  "shared_demographic_records_in_test": 257,
+  "cluster_disclaimer": "Shared demographic/spatial coordinates (latitude, longitude, age, gender) indicate possible repeat submissions from the same individual or household, but do NOT conclusively prove participant identity without unique participant IDs."
+}

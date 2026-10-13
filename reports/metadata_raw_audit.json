@@ -1,0 +1,33 @@
+{
+  "total_records": 34434,
+  "unique_uuids": 34434,
+  "duplicate_uuids": 0,
+  "missing_status_count": 13770,
+  "missing_status_pct": 39.98954521693675,
+  "missing_cough_detected_count": 0,
+  "missing_cough_detected_pct": 0.0,
+  "missing_audio_count": 0,
+  "status_distribution": {
+    "NaN": 13770,
+    "healthy": 15476,
+    "COVID-19": 1315,
+    "symptomatic": 3873
+  },
+  "cough_detected_stats": {
+    "valid_count": 34434.0,
+    "mean": 0.641198606028925,
+    "min": 0.0,
+    "max": 0.9994,
+    "ge_0_8_count": 18544.0
+  },
+  "quality_columns_present": [
+    "quality_1",
+    "diagnosis_1",
+    "quality_2",
+    "diagnosis_2",
+    "quality_3",
+    "diagnosis_3",
+    "quality_4",
+    "diagnosis_4"
+  ]
+}
