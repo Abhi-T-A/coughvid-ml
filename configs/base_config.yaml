@@ -1,0 +1,53 @@
+# Base configuration for COUGHVID ML pipeline
+# Environment override: set COUGHVID_DATA_DIR to point to your raw dataset folder.
+
+dataset:
+  raw_data_dir: "../AT/ED/coughvid_20211012"
+  metadata_filename: "metadata_compiled.csv"
+  cough_threshold: 0.8
+  target_task: "covid_binary"
+
+audio:
+  target_sr: 12000
+  lowpass_hz: 6000
+  filter_order: 5
+  max_duration: 10.0
+  normalize_peak: true
+
+segmentation:
+  enabled: true
+  min_burst_duration: 0.2
+  max_burst_duration: 1.5
+  power_threshold_factor: 0.2
+  pad_context_duration: 0.05
+
+features:
+  n_mfcc: 20
+  n_fft: 512
+  hop_length: 128
+  n_mels: 64
+  spectrogram_frames: 128
+  batch_size: 100
+  psd_bands:
+    - [0, 500]
+    - [500, 1000]
+    - [1000, 2000]
+    - [2000, 3000]
+    - [3000, 4000]
+    - [4000, 5000]
+    - [5000, 6000]
+
+splits:
+  test_size: 0.15
+  n_splits: 5
+  random_seed: 42
+  group_by_cluster: false
+
+training:
+  random_seed: 42
+  calibrate_probabilities: true
+
+paths:
+  data_dir: "data"
+  artifacts_dir: "artifacts"
+  reports_dir: "reports"

@@ -1,0 +1,21 @@
+# Core Pipeline Dependencies (Milestone 1 & Classical Baseline)
+pydantic>=2.6.0
+PyYAML>=6.0.0
+numpy>=1.24.0
+scipy>=1.11.0
+scikit-learn>=1.4.0
+joblib>=1.3.0
+xgboost>=2.0.0
+
+# Testing & Quality
+pytest>=8.0.0
+
+# Data & Audio I/O (to be activated during audio & feature milestones)
+pandas>=2.1.0
+pyarrow>=14.0.0
+# soundfile>=0.12.0
+# librosa>=0.10.0
+
+# Deep Learning (Optional - to be activated when CNN benchmarks begin)
+# torch>=2.1.0
+# torchaudio>=2.1.0

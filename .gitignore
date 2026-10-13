@@ -1,0 +1,70 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.pyright/
+
+# IDE & OS
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+__MACOSX/
+
+# Raw dataset files (never commit raw audio or large data archives)
+*.webm
+*.ogg
+*.wav
+*.mp3
+*.flac
+*.zip
+*.tar.gz
+
+# Generated pipeline features and model checkpoints
+data/features/*.parquet
+data/features/*.npz
+data/splits/*.csv
+artifacts/models/*.joblib
+artifacts/models/*.pt
+artifacts/models/*.csv
+artifacts/current/*
+!artifacts/current/.gitkeep
+!artifacts/models/.gitkeep
+!data/features/.gitkeep
+!data/splits/.gitkeep
+!reports/.gitkeep
+
+
+# Local user configs / environment overrides
+.env
+.env.local
