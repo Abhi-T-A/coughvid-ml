@@ -1,0 +1,39 @@
+{
+  "partition": "pilot_train",
+  "manifest_path": "C:\\Users\\Abhi T A\\Downloads\\AT\\coughvid-ml\\data\\splits\\train.csv",
+  "total_manifest_records": 9224,
+  "processed_records": 70,
+  "success_count": 66,
+  "exclusion_count": 4,
+  "failure_reasons": {
+    "NoSegmentsDetectedError": 4
+  },
+  "class_distribution_input": {
+    "0": 65,
+    "1": 5
+  },
+  "class_distribution_success": {
+    "0": 61,
+    "1": 5
+  },
+  "class_distribution_excluded": {
+    "0": 4,
+    "1": 0
+  },
+  "class_success_rates": {
+    "0": 0.9385,
+    "1": 1.0
+  },
+  "num_tabular_features": 208,
+  "total_columns": 217,
+  "spectrogram_shape": [
+    64,
+    128
+  ],
+  "parquet_path": "data\\features\\pilot_train_features.parquet",
+  "spectrogram_path": "data\\features\\pilot_train_spectrograms.npz",
+  "error_manifest_path": "reports\\pilot_train_extraction_errors.json",
+  "nan_or_inf_detected": false,
+  "schema_version": "1.0.0",
+  "config_fingerprint": "b5f88a68e944942e"
+}

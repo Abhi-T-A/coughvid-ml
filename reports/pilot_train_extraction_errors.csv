@@ -1,0 +1,5 @@
+uuid,audio_path,label,status,error_stage,error_type,error_message
+00bca802-462d-403c-956d-5c92f3f886c3,C:\Users\Abhi T A\Downloads\AT\AT\ED\coughvid_20211012\00bca802-462d-403c-956d-5c92f3f886c3.wav,0,healthy,segmentation,NoSegmentsDetectedError,Energy-envelope hysteresis detected zero valid cough bursts.
+00e2eb1e-83c1-407e-9332-efbdbcbca8ac,C:\Users\Abhi T A\Downloads\AT\AT\ED\coughvid_20211012\00e2eb1e-83c1-407e-9332-efbdbcbca8ac.webm,0,healthy,segmentation,NoSegmentsDetectedError,Energy-envelope hysteresis detected zero valid cough bursts.
+00f461f5-d121-4254-8d8b-6111e523c5ae,C:\Users\Abhi T A\Downloads\AT\AT\ED\coughvid_20211012\00f461f5-d121-4254-8d8b-6111e523c5ae.wav,0,healthy,segmentation,NoSegmentsDetectedError,Energy-envelope hysteresis detected zero valid cough bursts.
+00fcf65a-d331-4f86-9255-781e21cab38b,C:\Users\Abhi T A\Downloads\AT\AT\ED\coughvid_20211012\00fcf65a-d331-4f86-9255-781e21cab38b.webm,0,healthy,segmentation,NoSegmentsDetectedError,Energy-envelope hysteresis detected zero valid cough bursts.
