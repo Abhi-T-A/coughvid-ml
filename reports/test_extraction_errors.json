@@ -1,0 +1,299 @@
+[
+  {
+    "uuid": "0474efff-abb4-4926-a47b-f21bce7dace1",
+    "audio_path": "C:\\Users\\Abhi T A\\Downloads\\AT\\AT\\ED\\coughvid_20211012\\0474efff-abb4-4926-a47b-f21bce7dace1.webm",
+    "label": 0,
+    "status": "healthy",
+    "error_stage": "segmentation",
+    "error_type": "NoSegmentsDetectedError",
+    "error_message": "Energy-envelope hysteresis detected zero valid cough bursts."
+  },
+  {
+    "uuid": "0619abe4-5ccc-42e6-99b8-5e8946e19d4e",
+    "audio_path": "C:\\Users\\Abhi T A\\Downloads\\AT\\AT\\ED\\coughvid_20211012\\0619abe4-5ccc-42e6-99b8-5e8946e19d4e.webm",
+    "label": 0,
+    "status": "healthy",
+    "error_stage": "segmentation",
+    "error_type": "NoSegmentsDetectedError",
+    "error_message": "Energy-envelope hysteresis detected zero valid cough bursts."
+  },
+  {
+    "uuid": "1737fd6e-aa59-485f-a836-138c0320078a",
+    "audio_path": "C:\\Users\\Abhi T A\\Downloads\\AT\\AT\\ED\\coughvid_20211012\\1737fd6e-aa59-485f-a836-138c0320078a.webm",
+    "label": 0,
+    "status": "healthy",
+    "error_stage": "segmentation",
+    "error_type": "NoSegmentsDetectedError",
+    "error_message": "Energy-envelope hysteresis detected zero valid cough bursts."
+  },
+  {
+    "uuid": "17691258-9711-4fba-bf92-b4a5ec55ed84",
+    "audio_path": "C:\\Users\\Abhi T A\\Downloads\\AT\\AT\\ED\\coughvid_20211012\\17691258-9711-4fba-bf92-b4a5ec55ed84.wav",
+    "label": 0,
+    "status": "healthy",
+    "error_stage": "segmentation",
+    "error_type": "NoSegmentsDetectedError",
+    "error_message": "Energy-envelope hysteresis detected zero valid cough bursts."
+  },
+  {
+    "uuid": "179c5696-bd4d-4d88-9b92-bd4f2f8e556a",
+    "audio_path": "C:\\Users\\Abhi T A\\Downloads\\AT\\AT\\ED\\coughvid_20211012\\179c5696-bd4d-4d88-9b92-bd4f2f8e556a.webm",
+    "label": 0,
+    "status": "healthy",
+    "error_stage": "segmentation",
+    "error_type": "NoSegmentsDetectedError",
+    "error_message": "Energy-envelope hysteresis detected zero valid cough bursts."
+  },
+  {
+    "uuid": "1a0d7c38-e644-4c5d-9ba0-bf9bdc0bffd6",
+    "audio_path": "C:\\Users\\Abhi T A\\Downloads\\AT\\AT\\ED\\coughvid_20211012\\1a0d7c38-e644-4c5d-9ba0-bf9bdc0bffd6.webm",
+    "label": 1,
+    "status": "COVID-19",
+    "error_stage": "segmentation",
+    "error_type": "NoSegmentsDetectedError",
+    "error_message": "Energy-envelope hysteresis detected zero valid cough bursts."
+  },
+  {
+    "uuid": "1dc73a7a-dc25-4377-9ede-ad8aca0a59fd",
+    "audio_path": "C:\\Users\\Abhi T A\\Downloads\\AT\\AT\\ED\\coughvid_20211012\\1dc73a7a-dc25-4377-9ede-ad8aca0a59fd.wav",
+    "label": 0,
+    "status": "healthy",
+    "error_stage": "segmentation",
+    "error_type": "NoSegmentsDetectedError",
+    "error_message": "Energy-envelope hysteresis detected zero valid cough bursts."
+  },
+  {
+    "uuid": "3c1efb88-ebba-4dd6-8fb7-ac1fb6e78abb",
+    "audio_path": "C:\\Users\\Abhi T A\\Downloads\\AT\\AT\\ED\\coughvid_20211012\\3c1efb88-ebba-4dd6-8fb7-ac1fb6e78abb.webm",
+    "label": 1,
+    "status": "COVID-19",
+    "error_stage": "segmentation",
+    "error_type": "NoSegmentsDetectedError",
+    "error_message": "Energy-envelope hysteresis detected zero valid cough bursts."
+  },
+  {
+    "uuid": "48323389-3350-4091-9713-a60a1932facc",
+    "audio_path": "C:\\Users\\Abhi T A\\Downloads\\AT\\AT\\ED\\coughvid_20211012\\48323389-3350-4091-9713-a60a1932facc.wav",
+    "label": 0,
+    "status": "healthy",
+    "error_stage": "segmentation",
+    "error_type": "NoSegmentsDetectedError",
+    "error_message": "Energy-envelope hysteresis detected zero valid cough bursts."
+  },
+  {
+    "uuid": "53f47faf-a269-4ee0-8d67-5991ff3149dd",
+    "audio_path": "C:\\Users\\Abhi T A\\Downloads\\AT\\AT\\ED\\coughvid_20211012\\53f47faf-a269-4ee0-8d67-5991ff3149dd.webm",
+    "label": 0,
+    "status": "healthy",
+    "error_stage": "segmentation",
+    "error_type": "NoSegmentsDetectedError",
+    "error_message": "Energy-envelope hysteresis detected zero valid cough bursts."
+  },
+  {
+    "uuid": "604be4e4-8434-4ab6-99c0-8d56e8fde809",
+    "audio_path": "C:\\Users\\Abhi T A\\Downloads\\AT\\AT\\ED\\coughvid_20211012\\604be4e4-8434-4ab6-99c0-8d56e8fde809.wav",
+    "label": 0,
+    "status": "healthy",
+    "error_stage": "segmentation",
+    "error_type": "NoSegmentsDetectedError",
+    "error_message": "Energy-envelope hysteresis detected zero valid cough bursts."
+  },
+  {
+    "uuid": "60755099-91f1-468c-8003-5c9da0643248",
+    "audio_path": "C:\\Users\\Abhi T A\\Downloads\\AT\\AT\\ED\\coughvid_20211012\\60755099-91f1-468c-8003-5c9da0643248.wav",
+    "label": 0,
+    "status": "healthy",
+    "error_stage": "segmentation",
+    "error_type": "NoSegmentsDetectedError",
+    "error_message": "Energy-envelope hysteresis detected zero valid cough bursts."
+  },
+  {
+    "uuid": "638b4fa0-88a1-4e55-b9e1-f9bcb844669e",
+    "audio_path": "C:\\Users\\Abhi T A\\Downloads\\AT\\AT\\ED\\coughvid_20211012\\638b4fa0-88a1-4e55-b9e1-f9bcb844669e.wav",
+    "label": 0,
+    "status": "healthy",
+    "error_stage": "segmentation",
+    "error_type": "NoSegmentsDetectedError",
+    "error_message": "Energy-envelope hysteresis detected zero valid cough bursts."
+  },
+  {
+    "uuid": "6683b712-9b8e-4edd-8b5d-6c1b6d262fdb",
+    "audio_path": "C:\\Users\\Abhi T A\\Downloads\\AT\\AT\\ED\\coughvid_20211012\\6683b712-9b8e-4edd-8b5d-6c1b6d262fdb.webm",
+    "label": 0,
+    "status": "healthy",
+    "error_stage": "segmentation",
+    "error_type": "NoSegmentsDetectedError",
+    "error_message": "Energy-envelope hysteresis detected zero valid cough bursts."
+  },
+  {
+    "uuid": "6cadbc41-4119-46b9-8d8e-ee512bfacfa4",
+    "audio_path": "C:\\Users\\Abhi T A\\Downloads\\AT\\AT\\ED\\coughvid_20211012\\6cadbc41-4119-46b9-8d8e-ee512bfacfa4.webm",
+    "label": 0,
+    "status": "healthy",
+    "error_stage": "segmentation",
+    "error_type": "NoSegmentsDetectedError",
+    "error_message": "Energy-envelope hysteresis detected zero valid cough bursts."
+  },
+  {
+    "uuid": "71347938-562f-4d24-9a05-268fcfa494e1",
+    "audio_path": "C:\\Users\\Abhi T A\\Downloads\\AT\\AT\\ED\\coughvid_20211012\\71347938-562f-4d24-9a05-268fcfa494e1.wav",
+    "label": 0,
+    "status": "healthy",
+    "error_stage": "segmentation",
+    "error_type": "NoSegmentsDetectedError",
+    "error_message": "Energy-envelope hysteresis detected zero valid cough bursts."
+  },
+  {
+    "uuid": "717a8b50-6500-47d5-9961-9bd82ced8fbb",
+    "audio_path": "C:\\Users\\Abhi T A\\Downloads\\AT\\AT\\ED\\coughvid_20211012\\717a8b50-6500-47d5-9961-9bd82ced8fbb.wav",
+    "label": 0,
+    "status": "healthy",
+    "error_stage": "segmentation",
+    "error_type": "NoSegmentsDetectedError",
+    "error_message": "Energy-envelope hysteresis detected zero valid cough bursts."
+  },
+  {
+    "uuid": "7fa15c05-5a85-406e-9411-789662f0e006",
+    "audio_path": "C:\\Users\\Abhi T A\\Downloads\\AT\\AT\\ED\\coughvid_20211012\\7fa15c05-5a85-406e-9411-789662f0e006.wav",
+    "label": 0,
+    "status": "healthy",
+    "error_stage": "segmentation",
+    "error_type": "NoSegmentsDetectedError",
+    "error_message": "Energy-envelope hysteresis detected zero valid cough bursts."
+  },
+  {
+    "uuid": "81c5a72d-26ca-4836-9a09-27e94a5d8efc",
+    "audio_path": "C:\\Users\\Abhi T A\\Downloads\\AT\\AT\\ED\\coughvid_20211012\\81c5a72d-26ca-4836-9a09-27e94a5d8efc.webm",
+    "label": 0,
+    "status": "healthy",
+    "error_stage": "segmentation",
+    "error_type": "NoSegmentsDetectedError",
+    "error_message": "Energy-envelope hysteresis detected zero valid cough bursts."
+  },
+  {
+    "uuid": "98210ab8-c244-4718-9ff5-f1b2331e0b47",
+    "audio_path": "C:\\Users\\Abhi T A\\Downloads\\AT\\AT\\ED\\coughvid_20211012\\98210ab8-c244-4718-9ff5-f1b2331e0b47.wav",
+    "label": 0,
+    "status": "healthy",
+    "error_stage": "segmentation",
+    "error_type": "NoSegmentsDetectedError",
+    "error_message": "Energy-envelope hysteresis detected zero valid cough bursts."
+  },
+  {
+    "uuid": "a4139107-a294-4420-a4b7-e50e113198a9",
+    "audio_path": "C:\\Users\\Abhi T A\\Downloads\\AT\\AT\\ED\\coughvid_20211012\\a4139107-a294-4420-a4b7-e50e113198a9.webm",
+    "label": 0,
+    "status": "healthy",
+    "error_stage": "segmentation",
+    "error_type": "NoSegmentsDetectedError",
+    "error_message": "Energy-envelope hysteresis detected zero valid cough bursts."
+  },
+  {
+    "uuid": "a5805774-cbcc-465d-9081-e5fa49e343b2",
+    "audio_path": "C:\\Users\\Abhi T A\\Downloads\\AT\\AT\\ED\\coughvid_20211012\\a5805774-cbcc-465d-9081-e5fa49e343b2.webm",
+    "label": 0,
+    "status": "healthy",
+    "error_stage": "segmentation",
+    "error_type": "NoSegmentsDetectedError",
+    "error_message": "Energy-envelope hysteresis detected zero valid cough bursts."
+  },
+  {
+    "uuid": "abb1586c-6a06-4667-8407-5574b4cc78e3",
+    "audio_path": "C:\\Users\\Abhi T A\\Downloads\\AT\\AT\\ED\\coughvid_20211012\\abb1586c-6a06-4667-8407-5574b4cc78e3.webm",
+    "label": 0,
+    "status": "healthy",
+    "error_stage": "segmentation",
+    "error_type": "NoSegmentsDetectedError",
+    "error_message": "Energy-envelope hysteresis detected zero valid cough bursts."
+  },
+  {
+    "uuid": "afcee07a-d243-471c-9b4c-e901e347bb36",
+    "audio_path": "C:\\Users\\Abhi T A\\Downloads\\AT\\AT\\ED\\coughvid_20211012\\afcee07a-d243-471c-9b4c-e901e347bb36.webm",
+    "label": 0,
+    "status": "healthy",
+    "error_stage": "segmentation",
+    "error_type": "NoSegmentsDetectedError",
+    "error_message": "Energy-envelope hysteresis detected zero valid cough bursts."
+  },
+  {
+    "uuid": "d2a1d17b-64db-4393-a312-63b92ef37bda",
+    "audio_path": "C:\\Users\\Abhi T A\\Downloads\\AT\\AT\\ED\\coughvid_20211012\\d2a1d17b-64db-4393-a312-63b92ef37bda.webm",
+    "label": 0,
+    "status": "healthy",
+    "error_stage": "segmentation",
+    "error_type": "NoSegmentsDetectedError",
+    "error_message": "Energy-envelope hysteresis detected zero valid cough bursts."
+  },
+  {
+    "uuid": "e19ba0c1-7b3e-4ca3-ba15-6c36670d0854",
+    "audio_path": "C:\\Users\\Abhi T A\\Downloads\\AT\\AT\\ED\\coughvid_20211012\\e19ba0c1-7b3e-4ca3-ba15-6c36670d0854.wav",
+    "label": 0,
+    "status": "healthy",
+    "error_stage": "segmentation",
+    "error_type": "NoSegmentsDetectedError",
+    "error_message": "Energy-envelope hysteresis detected zero valid cough bursts."
+  },
+  {
+    "uuid": "e4e0c378-2ebd-4c83-81f9-ec92a8bfe9bb",
+    "audio_path": "C:\\Users\\Abhi T A\\Downloads\\AT\\AT\\ED\\coughvid_20211012\\e4e0c378-2ebd-4c83-81f9-ec92a8bfe9bb.wav",
+    "label": 1,
+    "status": "COVID-19",
+    "error_stage": "segmentation",
+    "error_type": "NoSegmentsDetectedError",
+    "error_message": "Energy-envelope hysteresis detected zero valid cough bursts."
+  },
+  {
+    "uuid": "e543cc89-2385-4158-b2f0-6976b9531173",
+    "audio_path": "C:\\Users\\Abhi T A\\Downloads\\AT\\AT\\ED\\coughvid_20211012\\e543cc89-2385-4158-b2f0-6976b9531173.wav",
+    "label": 0,
+    "status": "healthy",
+    "error_stage": "segmentation",
+    "error_type": "NoSegmentsDetectedError",
+    "error_message": "Energy-envelope hysteresis detected zero valid cough bursts."
+  },
+  {
+    "uuid": "f54c5137-eecb-44ff-b0b4-67ecdf1a3846",
+    "audio_path": "C:\\Users\\Abhi T A\\Downloads\\AT\\AT\\ED\\coughvid_20211012\\f54c5137-eecb-44ff-b0b4-67ecdf1a3846.wav",
+    "label": 0,
+    "status": "healthy",
+    "error_stage": "segmentation",
+    "error_type": "NoSegmentsDetectedError",
+    "error_message": "Energy-envelope hysteresis detected zero valid cough bursts."
+  },
+  {
+    "uuid": "f6c7f7b6-8cc9-4cd1-a53d-0848e0169104",
+    "audio_path": "C:\\Users\\Abhi T A\\Downloads\\AT\\AT\\ED\\coughvid_20211012\\f6c7f7b6-8cc9-4cd1-a53d-0848e0169104.wav",
+    "label": 0,
+    "status": "healthy",
+    "error_stage": "segmentation",
+    "error_type": "NoSegmentsDetectedError",
+    "error_message": "Energy-envelope hysteresis detected zero valid cough bursts."
+  },
+  {
+    "uuid": "f72d158f-7ac9-46a4-8f6a-ce11ea3e182f",
+    "audio_path": "C:\\Users\\Abhi T A\\Downloads\\AT\\AT\\ED\\coughvid_20211012\\f72d158f-7ac9-46a4-8f6a-ce11ea3e182f.wav",
+    "label": 0,
+    "status": "healthy",
+    "error_stage": "segmentation",
+    "error_type": "NoSegmentsDetectedError",
+    "error_message": "Energy-envelope hysteresis detected zero valid cough bursts."
+  },
+  {
+    "uuid": "f7370038-3bff-4dcc-af92-cae8910387fa",
+    "audio_path": "C:\\Users\\Abhi T A\\Downloads\\AT\\AT\\ED\\coughvid_20211012\\f7370038-3bff-4dcc-af92-cae8910387fa.wav",
+    "label": 0,
+    "status": "healthy",
+    "error_stage": "segmentation",
+    "error_type": "NoSegmentsDetectedError",
+    "error_message": "Energy-envelope hysteresis detected zero valid cough bursts."
+  },
+  {
+    "uuid": "ff8d2339-0fd8-4edc-968a-93a26c7dd4ff",
+    "audio_path": "C:\\Users\\Abhi T A\\Downloads\\AT\\AT\\ED\\coughvid_20211012\\ff8d2339-0fd8-4edc-968a-93a26c7dd4ff.wav",
+    "label": 0,
+    "status": "healthy",
+    "error_stage": "segmentation",
+    "error_type": "NoSegmentsDetectedError",
+    "error_message": "Energy-envelope hysteresis detected zero valid cough bursts."
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "partition": "train",
+  "manifest_path": "C:\\Users\\Abhi T A\\Downloads\\AT\\coughvid-ml\\data\\splits\\train.csv",
+  "total_manifest_records": 9224,
+  "processed_records": 9224,
+  "success_count": 8964,
+  "exclusion_count": 260,
+  "failure_reasons": {
+    "NoSegmentsDetectedError": 260
+  },
+  "class_distribution_input": {
+    "0": 8612,
+    "1": 612
+  },
+  "class_distribution_success": {
+    "0": 8364,
+    "1": 600
+  },
+  "class_distribution_excluded": {
+    "0": 248,
+    "1": 12
+  },
+  "class_success_rates": {
+    "0": 0.9712,
+    "1": 0.9804
+  },
+  "num_tabular_features": 208,
+  "total_columns": 217,
+  "spectrogram_shape": [
+    64,
+    128
+  ],
+  "parquet_path": "data\\features\\train_features.parquet",
+  "spectrogram_path": "data\\features\\train_spectrograms.npz",
+  "error_manifest_path": "reports\\train_extraction_errors.json",
+  "nan_or_inf_detected": false,
+  "schema_version": "1.0.0",
+  "config_fingerprint": "b5f88a68e944942e"
+}
